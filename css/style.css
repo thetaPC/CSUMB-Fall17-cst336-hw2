@@ -1,0 +1,59 @@
+h1 {
+    margin-top: 36px;
+}
+
+form {
+    margin-top: 35px;
+}
+
+p1 {
+    color: red;
+}
+
+.no-pad-right {
+    padding-right: 2px;
+}
+
+.no-pad-left {
+    padding-left: 2px;
+}
+
+body {
+    background-image: url(https://i.ytimg.com/vi/w7ma8mweDGw/maxresdefault.jpg);
+}
+
+.winner {
+    margin-top: 35px;
+}
+
+.bigger {
+    font-size: 25px;
+}
+
+.bold {
+    font-weight: 700;
+}
+
+.blue {
+    color: #0005ff;
+}
+
+.margin-bot {
+    margin-bottom: 15px;
+}
+
+.round-border {
+    border-radius: 5px;
+}
+
+.sepia {
+    -webkit-filter: sepia(100%);filter: sepia(100%);
+}
+
+.btn-danger {
+    background-color: #cf2e2a;
+}
+
+.different-font {
+    font-family: 'Asap Condensed', sans-serif;
+}
